@@ -1,0 +1,33 @@
+#header h3 { display:inline; }
+
+#seccion, p {
+    font-weight: bold;
+}
+
+span {
+    font-weight: lighter;
+    color: black;
+    font-size:medium;;
+}
+
+body, #boton_default {
+    background-color: rgb(222, 233, 250);
+}
+
+#boton_color {
+    background-color: #FFF0F5;
+}
+
+#header, li, span , div , p  {font-family: 'Open Sans', sans-serif;}
+
+h3 {color: rgb(255, 128, 0);
+    width: 300px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    line-height: 35px;
+}
+
+h1 {font-family: 'Times New Roman', Times, serif;}
+
+
